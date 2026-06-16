@@ -83,13 +83,20 @@ The credibility Steve builds here — knowing how to move a city council, work w
 
 **JustStart Coaching Group, LLC** — Steve was Principal Coach, November 2021 – January 2026.
 
-**⚠ Flag for Steve:** Your profile shows this engagement ended January 2026 (today is June 16, 2026). Confirm: is JustStart Coaching Group still active, rebranded, paused, or wound down? This domain file and your evidence base should reflect current reality, not the resume snapshot.
+**Status: Wound down (confirmed June 2026).** Not currently active. Open to restarting or relaunching in a revamped form — no decision made yet on timing, positioning, or whether it keeps the JustStart name. This is a live option, not a dead one. Track the decision here:
 
-**What the work was:** Certified Professional Coach (CPC) and Energy Leadership Index Master Practitioner (ELI-MP), using iPEC methods. Small Business and Leadership Coach — helping clients discover challenges, remove obstacles, set goals, and reach their fullest potential. Areas of focus: change strategy and leadership, team building, culture change, inclusion initiatives, organizational development, and small business creation/growth.
+| Question | Answer |
+|----------|--------|
+| Restart, relaunch/rebrand, or stay dormant? | [Undecided] |
+| If relaunching — what changes from before? | [Add: target client, pricing, positioning, service mix] |
+| Trigger condition to restart | [Add: e.g., "after Director promotion," "if a specific client reaches out," "Q1 2027 review"] |
+| Next decision checkpoint | [Add date] |
+
+**What the work was (pre-wind-down):** Certified Professional Coach (CPC) and Energy Leadership Index Master Practitioner (ELI-MP), using iPEC methods. Small Business and Leadership Coach — helping clients discover challenges, remove obstacles, set goals, and reach their fullest potential. Areas of focus: change strategy and leadership, team building, culture change, inclusion initiatives, organizational development, and small business creation/growth.
 
 **Core passion stated:** Developing strong leaders and enhancing the local community by helping businesses thrive and keep revenue local.
 
-Steve also offers (or has offered) sales consulting — helping businesses build or improve their sales function. This could include: sales process design, team coaching, hiring and onboarding frameworks, CRM implementation support, compensation plan design, or fractional sales leadership.
+Sales consulting — helping businesses build or improve their sales function — is the natural extension if/when this restarts. Could include: sales process design, team coaching, hiring and onboarding frameworks, CRM implementation support, compensation plan design, or fractional sales leadership.
 
 **Why consulting makes sense for Steve:**
 - He's doing this work already in his day job — consulting monetizes that expertise externally
