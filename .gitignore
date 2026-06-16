@@ -1,16 +1,16 @@
-# Sensitive data — stays local, never pushed
+# Sensitive data - never commit
 data/
 
 # Environment files
 .env
-.env.local
 .env.*
+*.env
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Editor
+# Editor files
 .vscode/
-.idea/
 *.swp
+*.swo
