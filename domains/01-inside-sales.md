@@ -7,68 +7,58 @@
 
 ## Role Overview
 
-Steve manages an inside sales team in the construction/building materials industry. He owns team quota, pipeline integrity, forecast accuracy, and rep development. His performance here is the foundation of his Director promotion case — a struggling team makes every other career move harder.
+- **Title:** Inside Sales Manager — Southwest
+- **Team size:** 19
+- **Manager / key stakeholder:** Zack Harrison (SVP) — mentor, champion, executive stakeholder
+- **Territory / products:** Southwest Region / Asia Pac
+
+Steve manages a 19-person inside sales team across the Southwest territory. His performance here is the foundation of his Director promotion case — strong engagement, operational metrics, and a well-executed major project make every other career move easier.
 
 **What Steve owns:**
-- Team quota attainment (aggregate and individual)
-- Pipeline health and coverage ratios
-- Forecast accuracy (weekly/monthly/quarterly)
-- Rep skill development and performance management
-- Key customer relationship health
-- Sales process adherence and CRM hygiene
+- Team engagement (Gallup action plan + follow-through)
+- Operational metrics: order accuracy, NPS, call answer rate
+- Customer Portal utilization
+- Rep skill development, onboarding, and leaders-in-training pipeline
+- Multi-Family Project — launch and execution
 
-**What "good" looks like at Steve's level:**
-- Team consistently at 95%+ of quota
-- Pipeline coverage ratio above 3x
-- Forecast accuracy within 5% of actuals
-- Every rep has a clear development plan and is making progress
-- No customer surprises — Steve knows before his boss does
+**What "good" looks like right now:**
+- Order accuracy at 99.35%
+- NPS at 98%
+- Call answer rate at 80%
+- Gallup engagement score improving with completed action items
+- Multi-Family Project launched on time (target: September 2026)
 
 ---
 
-## Current Priorities
+## Current Priorities (This Quarter)
 
-These should be reviewed and updated each quarter. Add specific tasks to tasks.json.
+1. **Team development** — skills building, leaders-in-training pipeline
+2. **Team engagement** — Gallup action plan with real follow-through, not just a survey response
+3. **Multi-Family Project** — launch and execute
 
-**Pipeline Management**
-- Weekly pipeline review with each rep (not just the team call)
-- Identify deals at risk early — intervene before they stall
-- Ensure every stage in the pipeline has a clear exit criterion
-- Coach reps to qualify harder, not just add deals
+**Immediate next actions:**
+1. Create and begin Gallup Action Plan (assign owners & timelines)
+2. Establish regular team check-ins focused on engagement & development
+3. Build stakeholder map and core team for Multi-Family Project; schedule kickoff
 
-**Rep Coaching**
-- Weekly 1:1s with each rep: not status updates — skill development
-- Identify the one skill that would most move each rep's numbers
-- Use deal reviews as coaching moments, not interrogation
-- Build a bench: develop at least one rep who could step into a lead role
+**Risks & blockers:**
+- Unclear ownership across initiatives
+- Inconsistent execution / follow-through
 
-**Forecasting Accuracy**
-- Own the number. Don't let reps inflate it.
-- Use stage-weighted and judgment-weighted forecasts together
-- Track forecast accuracy month-over-month — it's a skill that compounds
-- Be the manager who never surprises the VP with a miss
-
-**Customer Relationship Health**
-- Know the status of every key account
-- Steve should have direct relationships with decision-makers, not just through reps
-- Watch for churn signals: slower response times, budget conversations, new stakeholders
+**Decision needed:** Launch Multi-Family Project — owners Jeremy Gilstrap (EVP) & Zack Harrison (SVP). Deadline: September 2026.
 
 ---
 
 ## Key Metrics to Track
 
-Update these monthly. These numbers tell the story of Steve's team performance.
-
 | Metric | Target | Current | Trend |
 |--------|--------|---------|-------|
-| Team quota attainment % | 95%+ | — | — |
-| Pipeline coverage ratio | 3x+ | — | — |
-| Average deal size | [set baseline] | — | — |
-| Win rate | [set baseline] | — | — |
-| Average rep ramp time (new hires) | [set baseline] | — | — |
-| Forecast accuracy | Within 5% | — | — |
-| Rep turnover rate | <20% annually | — | — |
-| Customer retention rate | 90%+ | — | — |
+| Order accuracy | 99.35% | — | — |
+| NPS | 98% | — | — |
+| Call answer rate | 80% | — | — |
+| Gallup engagement score / action completion | Improving | — | — |
+| Customer Portal utilization | Increasing | — | — |
+| Average rep ramp time (new hires — 2 just hired) | [set baseline] | — | — |
 
 **How to use this table:**
 - Fill in Current column at the start of each month
@@ -78,6 +68,17 @@ Update these monthly. These numbers tell the story of Steve's team performance.
 ---
 
 ## Team Management
+
+### Weekly / Daily Rituals
+
+- **Weekly:** Team updates, progress on Gallup action items, project syncs
+- **Daily:** Team check-ins, follow-through on open actions
+
+### Hiring & Onboarding
+
+- Just hired 2 new team members — current focus is structured onboarding
+- Current gap: keeping the team motivated to develop; no structured new-hire onboarding process yet
+- Coaching priority: build a coaching cadence that develops leaders-in-training and raises frontline performance
 
 ### Coaching Cadence
 
