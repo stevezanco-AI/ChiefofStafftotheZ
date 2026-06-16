@@ -8,9 +8,15 @@
 ## Role Overview
 
 - **Title:** Inside Sales Manager — Southwest
+- **Company:** Simpson Strong-Tie (23 years with the company)
+- **Tenure in current role:** September 2020 – present (5+ years)
+- **Location:** Riverside, California
 - **Team size:** 19
+- **Territory:** $340M territory, Southwest Region / Asia Pac
 - **Manager / key stakeholder:** Zack Harrison (SVP) — mentor, champion, executive stakeholder
-- **Territory / products:** Southwest Region / Asia Pac
+- **Member of:** Regional Senior Leadership Team
+- **Role focus:** Customer experience and sales operations — driving satisfaction and retention through strategic initiatives, process improvements, and coaching. Owns quality/policy control under SOX, ISO, and internal audit constraints. Built the Strategic Accounts team to enhance experience, retention, and growth.
+- **Track record in role:** Year-over-year increase in Net Promoter Scores since taking the role.
 
 Steve manages a 19-person inside sales team across the Southwest territory. His performance here is the foundation of his Director promotion case — strong engagement, operational metrics, and a well-executed major project make every other career move easier.
 

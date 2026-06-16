@@ -5,6 +5,43 @@
 
 ---
 
+## Steve's Background (Evidence Base)
+
+**Education:**
+- MBA, Business Administration and Management — University of Phoenix
+- BS, Business Administration and Marketing — University of Phoenix
+
+**Certifications:**
+- Certified Professional Coach (CPC) — iPEC
+- Energy Leadership Index Master Practitioner (ELI-MP)
+- Executive Certificate in Customer Experience (CX)
+- Human-Centered Leadership
+- Managing Up, Down, and Across the Organization
+
+**Awards:**
+- Sales by Objective Award (x2, including Hugh B. Oliphant)
+- Barclay Simpson Community Hero Award (x3)
+
+**23-year career arc at Simpson Strong-Tie — a real Director-level case study in the making:**
+
+| Role | Period | Scope |
+|------|--------|-------|
+| Merchandiser Coordinator | 2003–2005 | Managed team of 18 Retail Specialists, Southwestern US |
+| Regional Marketing Coordinator / Sales Rep | 2005–2010 | ~$6M across 3 territories |
+| National Account Regional Manager / Director of Digital Strategy | 2010–2014 | $25M in national chain customers |
+| Customer Service Manager | 2014–2016 | $120M across Southwest US, Pacific Rim, Asia. Grew sales 12% via strategic plans. Founding member, Regional Senior Leadership Team. |
+| National Pro Supply Manager | 2016–2020 | $110M regional/international sales ops. Grew $77M → $110M. Opened 10+ new product channels in North America and Asia. |
+| SAP Business Project Manager (concurrent, 2019) | 2019 | Company-wide SAP rollout — schedule validation, cutover/go-live training |
+| **Inside Sales Manager — Southwest (current)** | 2020–present | $340M territory, 19 direct reports, Regional Senior Leadership Team |
+
+**The headline number:** Increased sales by $33M in two years through strategic market penetration and new product development. 15% improvement in customer retention from cross-functional process work.
+
+**Prior board experience:** Member, Board of Advisors — UC Irvine (Nov 2020–Nov 2022). Reviewed credit/noncredit programs, linked industry to academia, advised on curriculum and program effectiveness. Worth referencing as evidence of operating at an advisory/strategic level outside the day job.
+
+**This is the case, already partially built:** 23 years of escalating scope (team of 18 → $340M territory), consistent YoY NPS growth, an MBA, a coaching certification most peers won't have, and a personal nonprofit leadership track record (see side-projects.md). The gap to Director isn't competence — it's documentation and visibility at the right altitude. See Evidence Building below.
+
+---
+
 ## The Target
 
 **Role:** Director of Sales (or VP of Sales)

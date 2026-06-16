@@ -18,7 +18,18 @@ If a side project starts taking time or mental energy from Steve's day job or hi
 
 ### What It Is
 
-Skatepark Respect is Steve's community advocacy project focused on skatepark access, culture, and community. It's organized around the belief that skateparks deserve the same respect, investment, and community stewardship as any other public recreational space — and that the skate community has a responsibility to show up for itself.
+**Skatepark Respect, Inc.** — registered 501(c)(3) nonprofit (EIN# 82-5378615), founded January 2018, based in Oceanside, CA. Steve is Founder & Executive Director (8+ years running it as of 2026).
+
+**Mission:** To create awareness and community involvement in keeping skateparks clean and maintained. The org conserves skateparks through outreach, cleanup efforts, and responsibility within the skateboarding community.
+
+**Steve's President/ED duties:**
+- Works with the Board of Directors on fiscal, operations, fundraising, marketing, and program strategy
+- Provides leadership and decision-making processes for long- and short-term goals
+- Builds and maintains a diverse, engaged Board
+- Formulates marketing/branding/development strategy and enhances revenue from major donors, foundations, government agencies, and corporations
+- Oversees financial status — long/short range financial plans, budget monitoring, financial controls
+- Supports and motivates staff and volunteers
+- Delivers programs through new and existing partnerships
 
 **Core goals:**
 - Advocate for better skatepark access and investment in the community
@@ -70,7 +81,15 @@ The credibility Steve builds here — knowing how to move a city council, work w
 
 ### What It Is
 
-Steve offers sales consulting services — helping businesses build or improve their sales function. This could include: sales process design, team coaching, hiring and onboarding frameworks, CRM implementation support, compensation plan design, or fractional sales leadership.
+**JustStart Coaching Group, LLC** — Steve was Principal Coach, November 2021 – January 2026.
+
+**⚠ Flag for Steve:** Your profile shows this engagement ended January 2026 (today is June 16, 2026). Confirm: is JustStart Coaching Group still active, rebranded, paused, or wound down? This domain file and your evidence base should reflect current reality, not the resume snapshot.
+
+**What the work was:** Certified Professional Coach (CPC) and Energy Leadership Index Master Practitioner (ELI-MP), using iPEC methods. Small Business and Leadership Coach — helping clients discover challenges, remove obstacles, set goals, and reach their fullest potential. Areas of focus: change strategy and leadership, team building, culture change, inclusion initiatives, organizational development, and small business creation/growth.
+
+**Core passion stated:** Developing strong leaders and enhancing the local community by helping businesses thrive and keep revenue local.
+
+Steve also offers (or has offered) sales consulting — helping businesses build or improve their sales function. This could include: sales process design, team coaching, hiring and onboarding frameworks, CRM implementation support, compensation plan design, or fractional sales leadership.
 
 **Why consulting makes sense for Steve:**
 - He's doing this work already in his day job — consulting monetizes that expertise externally
