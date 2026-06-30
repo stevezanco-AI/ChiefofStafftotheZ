@@ -42,14 +42,44 @@
 
 ---
 
+## The Strategic Reality (Confirmed June 2026)
+
+**This is the most important thing in this file. Read it first.**
+
+Steve had the direct conversation with Zack Harrison (SVP). The answer: **no Director-level position exists within the current Inside Sales Manager — Southwest role.** The path isn't a straight promotion up from the current seat.
+
+Zack's guidance: **visibility and exposure to larger projects.** That is the mandate. That is the conversation to keep having.
+
+**What this means strategically:**
+
+There are three viable paths from here — and all three require the same input: high-visibility performance on larger-scope work.
+
+| Path | What It Requires | Timeline |
+|------|-----------------|----------|
+| **Internal role creation** | Zack or Jeremy Gilstrap champions a new Director-level role built around Steve's expanded scope | 12–24 months of project visibility |
+| **Internal lateral move** | A Director-eligible position opens elsewhere in Simpson Strong-Tie and Steve is the known candidate | Opportunistic — requires being visible now |
+| **External market** | Steve's expanded project track record makes him the obvious hire at Director level elsewhere | Whenever the right opportunity appears |
+
+**The Multi-Family Project is not just a work deliverable — it is the career strategy.** Getting visibility on it, performing at a level that Zack and Jeremy notice, and making sure the right executives associate Steve's name with the outcome is the most important career move available right now.
+
+**The ongoing conversation with Zack:**
+This is not a one-time check-in. It's a relationship to maintain at a Tier 1 cadence (every 14 days) with specific updates on:
+- Project progress and Steve's role in it
+- What larger scope Steve is taking on
+- What evidence is accumulating that he's operating above his current level
+
+The ask isn't "when do I get promoted." The ask is "what does visibility look like to you, and am I doing it?"
+
+---
+
 ## The Target
 
-**Role:** Director of Sales (or VP of Sales)
-**Timeline:** 18–24 months from system start date
+**Role:** Director-level (Sales, CX, or Operations)
+**Path:** Visibility and larger project exposure → internal role creation, lateral move, or external market
 **Geography:** Open — best opportunity wins
 **Industry:** Construction, building materials, industrial distribution, or adjacent
 
-The goal is not just a title change. The goal is to operate at a level where Steve owns strategic direction, not just execution — where he's setting the sales approach, not just running the playbook.
+The goal is not just a title change. The goal is to operate at a level where Steve owns strategic direction, not just execution — and to make sure the people who create Director roles know his name and his results.
 
 ---
 
