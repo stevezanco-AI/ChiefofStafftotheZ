@@ -56,9 +56,8 @@ There are three viable paths from here — and all three require the same input:
 
 | Path | What It Requires | Timeline |
 |------|-----------------|----------|
-| **Internal role creation** | Zack or Jeremy Gilstrap champions a new Director-level role built around Steve's expanded scope | 12–24 months of project visibility |
-| **Internal lateral move** | A Director-eligible position opens elsewhere in Simpson Strong-Tie and Steve is the known candidate | Opportunistic — requires being visible now |
-| **External market** | Steve's expanded project track record makes him the obvious hire at Director level elsewhere | Whenever the right opportunity appears |
+| **Senior Manager, Sales Operations — Southwest (target)** | Visibility on larger-scope operational projects, Zack and Phil's endorsement, evidence of operating beyond current role | [Add timeline — when does this role open or need to be created?] |
+| **External Director-level market** | Strong mid-year review ✓, expanded project track record, clear narrative | Whenever the right opportunity appears — optionality |
 
 **The Multi-Family Project is not just a work deliverable — it is the career strategy.** Getting visibility on it, performing at a level that Zack and Jeremy notice, and making sure the right executives associate Steve's name with the outcome is the most important career move available right now.
 
@@ -72,14 +71,17 @@ The ask isn't "when do I get promoted." The ask is "what does visibility look li
 
 ---
 
-## The Target
+## The Target (Updated July 7, 2026)
 
-**Role:** Director-level (Sales, CX, or Operations)
-**Path:** Visibility and larger project exposure → internal role creation, lateral move, or external market
-**Geography:** Open — best opportunity wins
-**Industry:** Construction, building materials, industrial distribution, or adjacent
+**Next role:** Senior Manager of Sales Operations — Southwest Region (Simpson Strong-Tie)
+**Path:** Confirmed with Zack. This is the identified next career step — a lateral move into a more senior, operationally-scoped role that creates the platform for Director-level work.
+**Why this role:** It expands scope beyond inside sales management into broader sales operations — which is where the visibility and larger project exposure Zack described lives. It positions Steve for Director without requiring a role that doesn't currently exist.
 
-The goal is not just a title change. The goal is to operate at a level where Steve owns strategic direction, not just execution — and to make sure the people who create Director roles know his name and his results.
+**Mid-Year Review context (July 7, 2026):** Zack had great things to say about Steve's performance. The review went well. This is the foundation the next career move is built on — strong H1, credibility in the room, Zack as an active champion.
+
+**The Multi-Family complication:** The project identified as the primary visibility vehicle is on hold — Phil is watching Kent's performance in a new role first. Steve's path to Senior Manager of Sales Operations cannot wait on Multi-Family. Alternative visibility plays are needed now.
+
+**The goal:** Operate at Senior Manager of Sales Operations level — broader scope, cross-functional influence, process and growth ownership across the Southwest — before the role is formally offered. Make it obvious to Phil and Zack that Steve is already doing that work.
 
 ---
 
